@@ -37,4 +37,4 @@ YOLO first will divide a given image or frame of a video into N number of square
 2. Loss Calculations - From the constituent loss functions, YOLO calculates a total loss function.
 
 ### Results:
-
+!['hello'](https://github.com/sumitkumar109/sign-language-translator/blob/main/data/images/Hello.png?raw=true)
